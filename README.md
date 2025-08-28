@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <a href="https://youtu.be/ukMPKm3cLns?si=4My0MgQvuzVTkHGN" target="_blank">
   <img src="./img/thumbnail.png" alt="Thumbnail"/>
@@ -16,3 +17,7 @@
 <a href="https://youtu.be/ukMPKm3cLns?si=4My0MgQvuzVTkHGN">
   <img src="./img/youtube-ligo.png" alt="youtube"/>
 </a>
+=======
+# gaming-website
+Personal project for a game launch landing page
+>>>>>>> e5d0b99b542cfb7f3be78ec0634df05f8795784a
